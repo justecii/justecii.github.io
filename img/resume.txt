@@ -1,0 +1,46 @@
+﻿Justen Cracraft
+Full Stack Web Developer from Seattle, WA
+	
+
+justecii.github.io
+linkedin.com/in/justen-cracraft
+(206) 327-3653
+justen.cracraft@gmail.com
+	As a life-like robot that was programmed to feel human emotions, I make for a passionate full-stack developer as I think like a machine but act like a person. I thrive working together with both to solve problems and make improve people's lives.
+/EXPERIENCE
+/General_Assembly, Seattle - Web Development Immersive
+August 2017 - November 2017
+Twelve week, fully immersive program in full stack web development featuring 400+ hours of instruction, daily deliverables, and week-long project sprints. Instructed through best practices for RESTful routing, MERN stack and Git workflows.
+/Novo_Nordisk,  Seattle - Research Associate
+December 2012 - August 2017
+Thrived in creating and developing workflow solutions for laboratory processes and concise communication. Implemented and trained colleagues  to use a global animal data system using Pristima Software. Wide range of laboratory skills and duties, most notably created DNA plasmid for potential target of Type 1 Diabetes prevention.
+/Institute_For_Systems_Biology, Seattle - Lab Technician I
+March 2010 - November 2013
+Managed database and inventory for large colony. Used my organizational skills to establish SOPs and workflows that remain in place.
+/EDUCATION
+/General_Assembly, Seattle - Web Development Immersive
+August 2017 - November 2017
+/University_Of_Washington, Seattle - Bachelors of Science - Biology
+September 2008 - June 2011
+/Seattle_Central_Community_College, Seattle - Associate of Arts
+August 2005 - March 2008
+	/SKILLS
+* /LANGUAGES 
+* JavaScript 
+* HTML/CSS 
+* /FRONT-END 
+* ReactJS 
+* jQuery 
+* Bootstrap 
+* Materialize 
+* /BACK-END 
+* NodeJS 
+* Express 
+* MongoDB 
+* PostgreSQL 
+* Mongoose
+* /VERSION CONTROL 
+* GitHub 
+* Git
+/AWARDS
+General Assembly Fall ‘17 Hackathon - Winner- Most Innovative
