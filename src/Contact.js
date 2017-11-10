@@ -5,7 +5,7 @@ class Contact extends Component {
     render(){
         return (
             <div>
-                <h2 class="title">Cash me Outside Tho'</h2>
+                <h2 class="title">Cash me Outside</h2>
                 <Row className="contactRow">
                     <Col s={6} className="linkedin">
                         <a href="https://www.linkedin.com/in/justen-cracraft/" target="_blank"><i class="fa fa-linkedin fa-5x" aria-hidden="true"></i></a>
