@@ -20,7 +20,7 @@ h2 {
 }
 
 .element {
-    height: 770px;
+    height: 780px;
     background-color: #ededed;
     font-size: 16px;
     border-top: 1px solid #000;
@@ -63,7 +63,7 @@ p {
 
 .skills {
     font-size: 1.8em;
-    margin: 10px 0px;
+    margin: 15px 0px;
     color: white;
 }
 
@@ -75,7 +75,7 @@ p {
     font-size: 1.2em;
     display: inline;
     vertical-align: bottom;
-    margin-top: 100px;
+    margin: 20px;
 }
 
 .page4 {
