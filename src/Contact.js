@@ -19,7 +19,7 @@ class Contact extends Component {
                         <a href="mailto:justecii@gmail.com"><i class="fa fa-envelope-o fa-5x" aria-hidden="true"></i></a>
                     </Col>
                     <Col s={6} className="twitter">
-                        <a href="#"><i class="fa fa-twitter fa-5x" aria-hidden="true"></i></a>
+                        <a href="https://twitter.com/Justec"><i class="fa fa-twitter fa-5x" aria-hidden="true"></i></a>
                     </Col>
                 </Row>
 

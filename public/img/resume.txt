@@ -2,7 +2,7 @@
 Full Stack Web Developer from Seattle, WA
 	
 
-justecii.github.io
+justen-cracraft.herokuapp.com/
 linkedin.com/in/justen-cracraft
 (206) 327-3653
 justen.cracraft@gmail.com
@@ -27,6 +27,7 @@ August 2005 - March 2008
 	/SKILLS
 * /LANGUAGES 
 * JavaScript 
+* Ruby on Rails
 * HTML/CSS 
 * /FRONT-END 
 * ReactJS 
