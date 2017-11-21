@@ -45,8 +45,8 @@ class Resume extends Component {
                 </Col>
                 <Col s={12} m={9}>
                     <ul>
-                        <li className='skillLink'><a href="img/resume.txt" download="Justen Cracraft">Download Resume TXT</a></li>
-                        <li className='skillLink'><a href="img/resume.pdf" download="Justen Cracraft">Download Resume PDF</a></li>
+                        <li className='skillLink'><a href="/img/resume.txt" download="Justen Cracraft">Download Resume TXT</a></li>
+                        <li className='skillLink'><a href="/img/resume.pdf" download="Justen Cracraft">Download Resume PDF</a></li>
                         <li className='skillLink'><a href="https://github.com/justecii" target="_blank">My Github</a></li>
                         <li className='skillLink'><a href="https://codepen.io/justecii/">My Codepen</a></li>
                     </ul>
