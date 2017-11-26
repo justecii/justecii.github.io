@@ -7,10 +7,10 @@ class About extends Component {
             <div>
                 <h1 className="title">Justen Cracraft</h1>
                 <Row>
-                    <Col m={4}>
-                        <img className="responsive" src="img/me.jpg" alt="my mug" className="myPic" />
+                    <Col s={12} m={4}>
+                        <img className="responsive myPic" src="img/me.jpg" alt="my mug" />
                     </Col>
-                    <Col m={8}>
+                    <Col s={12} m={8}>
                         <h3>Full Stack Web Developer from Seattle WA</h3>
                         <p>I'm Justen. I have a passion for web development and problem solving. I'm a people person, but I like using logic to solve difficult problems, which is what drew me to web development. I love working on front-end frameworks like React but also really enjoy working with databases such as MongoDB or PostgreSQL. 
                             <br/>

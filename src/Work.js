@@ -59,7 +59,7 @@ class Work extends Component {
                                 <img src="/img/oversee.png" alt="testing" className="screenshots" />
                             </Col>
                             <Col m={3} s={12} className="description">
-                                <a href="#" target="_blank" className="linkTitle">Oversee D&amp;D</a><a href="#" target="_blank" className="linkTitle"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
+                                <a href="https://oversee-dandd.herokuapp.com/" target="_blank" className="linkTitle">Oversee D&amp;D</a><a href="https://github.com/justecii/oversee-dandd" target="_blank" className="linkTitle"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
                                 <p>A web app for Dungeons and Dragons groups to store information about their campaigns and characters. Users can share campaigns with each other and then work together to flesh out characters, save notes and share maps.</p>
                                 <h5>Tech Used:</h5>
                                 <p>React, MongoDB, Mongoose, Node.js, Express, Materialize</p>
