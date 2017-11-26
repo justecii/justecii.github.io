@@ -65,7 +65,7 @@ class App extends Component {
                 <li><Link activeClass="active"  to="contact" spy={true} smooth={true} duration={500} >
                   Contact
                 </Link></li>
-                <li><a href="/img/resume.pdf" target="_blank">Resume</a></li>
+                <li><a href="/img/resume.pdf">Resume</a></li>
               </ul>
             </div>
           </nav>
