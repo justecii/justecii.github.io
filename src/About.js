@@ -14,7 +14,7 @@ class About extends Component {
                         <h3>Full Stack Web Developer from Seattle WA</h3>
                         <p>I'm Justen. I have a passion for web development and problem solving. I'm a people person, but I like using logic to solve difficult problems, which is what drew me to web development. I love working on front-end frameworks like React but also really enjoy working with databases such as MongoDB or PostgreSQL. 
                             <br/>
-                            My grandma says I'm nice and funny. If you don't believe her, contact me and I'll prove it. (But please don't be mean to my grandma.)
+                            My grandma says I'm nice and funny. If you don't believe her, contact me and I'll prove it.
                             <br/>
                             I am a cool guy and would love to work with you!
                         </p>

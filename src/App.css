@@ -7,6 +7,7 @@
     /* height: 100%; */
     margin: 0 !important;
     padding: 0 !important;
+    font-size: 16px;
 }
 
 h1,
@@ -20,7 +21,7 @@ h2 {
 }
 
 .element {
-    height: 780px;
+    height: 800px;
     background-color: #ededed;
     font-size: 16px;
     border-top: 1px solid #000;
@@ -180,8 +181,54 @@ p {
 
 /* Mobile styling changes */
 
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 768px) {
+    .body {
+        /* height: 100%; */
+        margin: 0 !important;
+        padding: 0 !important;
+        font-size: 10px;
+    }
     h2 {
         font-size: 2em;
     }
+    .element {
+        height: 100%;
+        font-size: 10px;
+        border-top: 1px solid #000;
+        /* padding-top: 55px;
+        padding-left: 10px; */
+        position: relative;
+    }
+    /* Page 1 edits */
+    .title {
+        margin-bottom: 30px;
+    }
+    /* Page 2 edits */
+    .screenshots {
+        width: 100%;
+        max-height: 500px;
+        border: 3px solid rgb(88, 61, 170);
+    }
+    .description {
+        color: rgb(112, 111, 116);
+        background-color: white;
+        height: 200px;
+        overflow: auto;
+    }
+    /* Page 3 edits */
+    .skills {
+        font-size: 1.2em;
+        margin: 5px 0px;
+        color: white;
+    }
+    .links {
+        margin-top: 15px;
+    }
+    .skillLink {
+        font-size: 1em;
+        display: inline;
+        vertical-align: bottom;
+        margin: 5px;
+    }
+    /* Page 4 edits */
 }
