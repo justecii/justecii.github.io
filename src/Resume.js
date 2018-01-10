@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import CardTest from './CardTest';
 import {Col, Row} from 'react-materialize';
 
 class Resume extends Component {

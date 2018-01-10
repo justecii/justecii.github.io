@@ -1,7 +1,5 @@
 import React, {Component} from 'react';
-import {Tabs, Tab, Card, CardTitle, Col, Row } from 'react-materialize';
-import Test from './Test';
-import CardTest from './CardTest';
+import {Tabs, Tab, Col, Row } from 'react-materialize';
 
 class Work extends Component {
     render(){
@@ -63,6 +61,19 @@ class Work extends Component {
                                 <p>A web app for Dungeons and Dragons groups to store information about their campaigns and characters. Users can share campaigns with each other and then work together to flesh out characters, save notes and share maps.</p>
                                 <h5>Tech Used:</h5>
                                 <p>React, MongoDB, Mongoose, Node.js, Express, Materialize</p>
+                            </Col>
+                        </Row>
+                    </Tab>
+                    <Tab title="In-Progress">
+                        <Row>
+                            <Col m={9} s={12}>
+                                <img src="/img/waid.png" alt="testing" className="screenshots" />
+                            </Col>
+                            <Col m={3} s={12} className="description">
+                                <a href="#" target="_blank" className="linkTitle">WAID</a><a href="https://github.com/justecii/work-tracker" target="_blank" className="linkTitle"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
+                                <p>What Am I Doing with my time - the answer is tracked on this app. Used to chart how I am spending my time in 2018. Productivity and fitness tracking soon.</p>
+                                <h5>Tech Used:</h5>
+                                <p>React, VictoryJs, Moment, MongoDB, Mongoose, Node.js, Express</p>
                             </Col>
                         </Row>
                     </Tab>
