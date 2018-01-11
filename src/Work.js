@@ -41,7 +41,7 @@ class Work extends Component {
                     <Tab title="Treasure Cruiser">
                         <Row>
                             <Col m={9} s={12}>
-                                <img src="/img/treasure_cruiser.png" alt="testing"className="screenshots" />
+                                <img src="/img/treasure.png" alt="testing"className="screenshots" />
                             </Col>
                             <Col m={3} s={12} className="description">
                                 <a href="http://www.treasurecruiser.com/" target="_blank" className="linkTitle">Treasure Cruiser</a><a href="https://github.com/justecii/treasure-cruiser" target="_blank" className="linkTitle"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
