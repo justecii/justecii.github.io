@@ -44,7 +44,7 @@ class Work extends Component {
                                 <img src="/img/treasure_cruiser.png" alt="testing"className="screenshots" />
                             </Col>
                             <Col m={3} s={12} className="description">
-                                <a href="https://treasurecruiser.com/" target="_blank" className="linkTitle">Treasure Cruiser</a><a href="https://github.com/justecii/treasure-cruiser" target="_blank" className="linkTitle"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
+                                <a href="http://www.treasurecruiser.com/" target="_blank" className="linkTitle">Treasure Cruiser</a><a href="https://github.com/justecii/treasure-cruiser" target="_blank" className="linkTitle"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a>
                                 <p>A Magic the Gathering trading app. Users store cards in their collection they would like to trade and use card pricing data to make fair trades</p>
                                 <h5>Tech Used:</h5>
                                 <p>PostgreSQL, Sequelize, Node.js, Express, jQuery, Bootstrap</p>
