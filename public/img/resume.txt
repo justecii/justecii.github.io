@@ -1,33 +1,42 @@
-﻿Justen Cracraft
+Justen Cracraft
 Full Stack Web Developer from Seattle, WA
 	
-
-justen-cracraft.herokuapp.com/
+justencracraft.com/
 linkedin.com/in/justen-cracraft
 (206) 327-3653
 justen.cracraft@gmail.com
-	As a life-like robot that was programmed to feel human emotions, I make for a passionate full-stack developer as I think like a machine but act like a person. I thrive working together with both to solve problems and make improve people's lives.
-/EXPERIENCE
-/General_Assembly, Seattle - Web Development Immersive
-August 2017 - November 2017
-Twelve week, fully immersive program in full stack web development featuring 400+ hours of instruction, daily deliverables, and week-long project sprints. Instructed through best practices for RESTful routing, MERN stack and Git workflows.
+
+As a life-like robot that was programmed to feel human emotions, I make for a passionate full-stack developer as I think like a machine but act like a person. I thrive working together with both to solve problems and improve people's lives.
+
+
+/WORK_EXPERIENCE
 /Novo_Nordisk,  Seattle - Research Associate
 December 2012 - August 2017
 Thrived in creating and developing workflow solutions for laboratory processes and concise communication. Implemented and trained colleagues  to use a global animal data system using Pristima Software. Wide range of laboratory skills and duties, most notably created DNA plasmid for potential target of Type 1 Diabetes prevention.
 /Institute_For_Systems_Biology, Seattle - Lab Technician I
 March 2010 - November 2013
 Managed database and inventory for large colony. Used my organizational skills to establish SOPs and workflows that remain in place.
-/EDUCATION
-/General_Assembly, Seattle - Web Development Immersive
-August 2017 - November 2017
-/University_Of_Washington, Seattle - Bachelors of Science - Biology
-September 2008 - June 2011
-/Seattle_Central_Community_College, Seattle - Associate of Arts
-August 2005 - March 2008
-	/SKILLS
+
+
+/EXAMPLE_PROJECTS
+/WYM
+MongoDB, Express, ReactJS, NodeJS, Matierlize, IBM’s Watson API
+A tool for users to analyze the tones conveyed in their written communication. Using IBM’s Watson API, a user can input an email, cover letter, or any other text and get results back on what sorts of emotion(sadness, analytical, anger, tentative, joy, fear, confident) that text gives off and to how strongly it emits those emotions.
+/Treasure_Cruiser
+PostgreSQL, Express, NodeJS, jQuery, Bootstrap
+A Magic the Gathering card collection and trading app. User’s search and add cards to their collection that they are hoping to trade with other users. Values are stored for both the user’s collection as well as cards they add to a trade, so that they can be compared to other user’s collections and fair transactions can occur.
+/Star_Wars_Slots
+Javascript, jQuery
+Star Wars influenced slot-machine style game using basic vanilla javascript and jQuery. Best enjoyed with audio turned on to experience the full extent of the force.
+/Dayly (app and name in-progress)
+MongoDB, Express, ReactJS, NodeJS, Matierlize, VictoryJS
+The intention of this app is to track the activities, food intake, and daily habits for the user. Part MyFitnessPal/part time tracking. I’ve used VictoryJS to easily render the data being collected into fun, colorful charts.
+
+/SKILLS
 * /LANGUAGES 
 * JavaScript 
 * Ruby on Rails
+* Python
 * HTML/CSS 
 * /FRONT-END 
 * ReactJS 
@@ -40,8 +49,16 @@ August 2005 - March 2008
 * MongoDB 
 * PostgreSQL 
 * Mongoose
-* /VERSION CONTROL 
-* GitHub 
-* Git
-/AWARDS
+* Flask
+
+/EDUCATION
+/General_Assembly, Seattle - Web Development Immersive
+August 2017 - November 2017
+/University_Of_Washington, Seattle - Bachelors of Science - Biology
+September 2008 - June 2011
+/Seattle_Central _Community_College, Seattle - Associate of Arts
+August 2005 - March 2008
+
+
+* /AWARDS
 General Assembly Fall ‘17 Hackathon - Winner- Most Innovative
